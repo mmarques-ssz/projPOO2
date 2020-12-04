@@ -1,0 +1,4 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projPOO2\projPOO2\bin\Debug\projPOO2.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projPOO2\projPOO2\bin\Debug\projPOO2.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projPOO2\projPOO2\obj\x86\Debug\projPOO2.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\SAI271_2020s2\projPOO2\projPOO2\obj\x86\Debug\projPOO2.pdb
